@@ -1,0 +1,23 @@
+# Virtual Environments
+.venv/
+.venv312/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large folders
+data/
+test_data/
+
+
+
+# OS
+.DS_Store
+Thumbs.db
